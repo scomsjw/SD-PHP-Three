@@ -199,7 +199,6 @@ You should get a list of all the films and their certificates. Now have a go wri
 
 
 
-## Deleting data
-* Have a go at writing an SQL statement (or series of statements) that will delete a film from the database.
+
 
 
