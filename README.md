@@ -202,7 +202,4 @@ You should get a list of all the films and their certificates. Now have a go wri
 ## Deleting data
 * Have a go at writing an SQL statement (or series of statements) that will delete a film from the database.
 
-## On your own
-* A lot of what we have done in the last two weeks using SQL can also be done using the phpmyadmin graphical user interface. Select the *films* table and have a go at the following:
-* Click on the *insert* tab. See how you can use an HTML form to insert data into tables
-* Click on *structure* and then *relations* and see how you edit the properties of foreign key relationships.  
+
