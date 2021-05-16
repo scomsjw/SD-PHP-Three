@@ -36,7 +36,7 @@ CREATE TABLE `certificates` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Dumping data for table `certificates`
+-- Dumping data from table `certificates`
 --
 
 INSERT INTO `certificates` (`id`, `name`, `description`, `image`) VALUES
