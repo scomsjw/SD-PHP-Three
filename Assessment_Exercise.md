@@ -178,7 +178,7 @@ You should get a list of all the films and their certificates. Now have a go wri
 
 * Display all the 15 rated films that are less than 100 minutes in length
 
-* Display a list of all films and their genres
+* Display a list of all films and their genre
 
 * Display the genres associated with 'The Incredibles'
 
