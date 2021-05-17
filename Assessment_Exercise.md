@@ -173,7 +173,7 @@ SELECT films.title, certificates.name from films
 INNER JOIN certificates
 ON films.certificate_id=certificates.id;
 ```
-You should get a list of all the films and their certificates. Now have a go writing SELECT statements that will do the following. You may need to refer to the additional lecture slides on SQL foreign keys and joins:
+You should get a list of all the films and their certificates. For your assignment submission you should create the following SELECT statements, test them then submit a list of the queries. You do not need to provide screenshots proving that the queries work. 
 * Display the titles of all the 15 rated films
 
 * Display all the 15 rated films that are less than 100 minutes in length
